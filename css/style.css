@@ -138,8 +138,13 @@ input::placeholder, .fas {
     background-color: #ff8103 !important;
 }
 
-.scrolltable {
-    /* height: 65vh; */
+.scrolltable1 {
+    height: 47vh;
+    overflow: auto;
+}
+
+.scrolltable2 {
+    height: 70vh; 
     overflow: auto;
 }
 
