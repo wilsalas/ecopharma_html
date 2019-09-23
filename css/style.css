@@ -213,6 +213,8 @@ td {
     color: white !important;
 }
 
+
+
 /* --------------------- */
 
 /* Styles for login */
@@ -445,4 +447,12 @@ td {
         margin-top: 1rem!important;
     }
     /* --------------------- */
+    .content-canasta{
+        margin-bottom: 10px;
+        /* height: 70vh !important; */
+    }
+    .scrolltable1 {
+        height: 24vh;
+        overflow: auto;
+    }
 }
